@@ -1,0 +1,12 @@
+{
+  "name": "Whatsapp Karanlık Mod",
+  "version": "1.0",
+  "author": "Sefa Sayğan",
+  "description": "Bu eklenti sayesinde web.whatsapp sitesine karanlık modunu aktif hale getirir.",
+   "icons" : { "16" : "icon16.png" , "48" : "icon48.png" , "128" : "icon128.png" }, 
+  "manifest_version": 2,
+  "content_scripts": [{
+		"css": ["background.css"],
+  		"matches": ["https://web.whatsapp.com/*"]
+  }]
+}

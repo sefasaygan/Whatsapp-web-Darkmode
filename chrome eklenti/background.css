@@ -1,0 +1,174 @@
+/*
+KOD VE EKLENTİ: SEFA SAYĞAN;
+SİTE:WEBHOSTUZMANİ.COM
+SİTE2:Birnebze.com
+
+Bu eklenti tamamen Sefa SAYĞAN tarafından yazılmıştır. İzinsiz paylaşımının yapılması hak ihlalidir. Paylaşırken site(kaynak belirterek) ile birlikte paylaşınız.
+
+
+
+ */
+
+
+
+/* WHATSAP style olarak ekle bitmiştir*/
+html[dir] ._2UaNq {
+   background-color: #4e4a4a!important; 
+}
+
+
+html[dir] ._2vikl {
+    background-color: #4e4a4a!important;
+}
+
+html[dir] ._3Jvyf {
+    background-color: #4e4a4a!important;
+}
+
+html[dir] ._3fs0K {
+    background-color: #4e4a4a!important;
+}
+
+._19vo_ {
+    color: #fff!important;
+}
+
+.i1XSV._3Q3ui {
+    color: rgba(255, 255, 255, 0.6)!important;
+}
+
+html[dir] .eiCXe {
+    background-color: #2b2828!important;
+}
+html[dir] ._2zCfw {
+    background: #2b2828!important;
+}
+
+._3H4MS {
+    color: #d8d8d8!important; /*SOL YAZI SOHBET ADI*/
+}
+._0LqQ {
+    color: rgba(255, 255, 255, 0.45)!important; /*SOL YAZI SOHBET SAATİ*/
+}
+._2UaNq._3mMX1 .xD91K {
+    color: rgba(203, 203, 203, 0.8)!important; /*SOL YAZI SOHBET ÖZETİ*/
+}
+
+
+
+html[dir] ._2UaNq._3mMX1 {
+    background-color: #504f4f!important; /*SOL YAZI SOHBET arkaplan*/
+}
+html[dir] ._2UaNq {
+    background-color: #626262!important; /*SOL YAZI SOHBET ALT arkaplan*/
+}
+html[dir] ._2UaNq:hover {
+    background-color: #504f4f!important; /*SOL YAZI SOHBET ALT arkaplan hover*/
+}
+
+._2ko65 ._0LqQ {
+    color: rgba(255, 255, 255, 0.45)!important; /*SOL YAZI SOHBET SAATİ ALT*/
+}
+
+.xD91K {
+    color: rgba(255, 255, 255, 0.6)!important; /*SOL YAZI SOHBET özet ALT*/
+}
+
+html[dir] ._3vpWv {
+     margin-top: 0px!important;  /*SOL YAZI SOHBET border ALT*/
+    border-top: 1px solid #9a9898!important;
+}
+html[dir] ._2WP9Q {
+    border-top: 1px solid #9a9898!important; /*SOL YAZI SOHBET border ALT*/
+}
+
+._2UaNq._2ko65 .xD91K {
+    font-weight: 400;
+    color: rgb(179, 179, 179)!important; /*SOL YAZI SOHBET özet ALT*/
+}
+
+.status-image span svg path,
+.status-video span svg path,
+._1ZMSM span svg path {
+ fill: #3d3d3d!important; /*Simgeler*/
+}
+._3j8Pd {
+    background: #a6a6a6!important;  /*Simgeler*/
+}
+
+html[dir=ltr] ._3j8Pd span[data-icon="status-dblcheck"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="status-check"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="menu"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="clip"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="chat"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="search-alt"] svg path,
+html[dir=ltr] ._3j8Pd span[data-icon="status-v3-unread"] svg path[fill="currentColor"],
+html[dir=ltr] .qfKkX span[data-icon="x"] svg path
+ {
+ fill: #3d3d3d!important;
+}
+
+
+html[dir=ltr] ._2F_Gi span[data-icon="search"] svg path
+ {
+ fill: #c4c4c4!important;
+}
+
+/*
+html[dir=ltr] ._3j8Pd div svg path
+ {
+ fill: #ffffff!important;
+}
+*/
+html[dir] ._1YoG6 {
+    background-color: #4e4a4a!important;  /*EN ALLT FOOTER ARKAPLAN*/
+}
+
+html[dir] .ZP8RM._19OGD {
+    background-color: #a4a4a4!important;  /*Sol arama kısmı tıklayınca arkaplan*/
+}
+
+html[dir] .r7sRK {
+    background-color: #232323!important;  /*Sol arama kısmı Araddıktansonra sohbetler*/
+}
+.r7sRK {
+    color: #e4e4e4!important;  /*Sol arama kısmı Araddıktansonra sohbetler*/
+}
+
+
+html[dir] ._2hHc6 {
+    background-color: #4e4a4a!important;  /*Tıklayınca açılan menü rengi*/
+}
+
+.Sl-9e {
+    color: #ffffff!important;  /*Tıklayınca açılan menü rengi*/
+}
+html[dir] .ZP8RM {
+    background-color: black!important;  /*Sohbetara kısmı arama*/
+}
+
+._3dwyT {
+    color: rgba(218, 218, 218, 0.45)!important;  /*Mesaj ara kısmı*/
+}
+
+html[dir] ._1Kstu {
+    background-color: #504f4f!important;  /*Mesaj ara kısmı*/
+}
+
+html[dir] .kiodY {
+    background-color: #9c9c9c!important;  /*Mesaj ara kısmı*/
+}
+
+html[dir] ._2LSbZ {
+    background-color: #626262!important;  /*Mesaj bilgisi*/
+}
+
+.rK2ei {
+    background: #4e4a4a!important;  /*Mesaj bilgisi*/
+}
+
+
+
+html[dir]  ._3cfBY._3VXiW{
+background-color: black!important; /*sağ tık menü hover*/
+}
