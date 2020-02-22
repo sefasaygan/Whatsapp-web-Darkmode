@@ -1,5 +1,6 @@
 # Whatsapp-web-Darkmode
 Whatsapp web karanlık modu yani Whatsapp web karanlık modunu chrome eklentisi olarak açılır.
+
 1.Verilen rar dosyasını indirin.
 
 2.İndirdiğiniz rar dosyasını arşivden çıkartarak silmeyeceğiniz bir yere kopyalayıp yapıştırın.
